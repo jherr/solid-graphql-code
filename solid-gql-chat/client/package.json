@@ -1,0 +1,23 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.5.1",
+    "vite-plugin-solid": "^2.0.3"
+  },
+  "dependencies": {
+    "@urql/core": "^2.3.1",
+    "graphql": "^15.5.2",
+    "solid-js": "^1.1.1",
+    "subscriptions-transport-ws": "^0.9.19",
+    "wonka": "^4.0.15"
+  }
+}
